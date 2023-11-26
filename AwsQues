@@ -1,0 +1,759 @@
+QQQ> Which AWS service is used to launch and manage virtual servers in the cloud?
+A) Amazon EC2 ==
+B) Amazon S3
+C) Amazon RDS
+D) Amazon SQS
+
+QQQ> Which AWS service is used to store and retrieve objects of any size?
+A) Amazon EC2
+B) Amazon S3 ==
+C) Amazon RDS
+D) Amazon SQS
+
+QQQ> Which AWS service is used to manage relational databases in the cloud?
+A) Amazon EC2
+B) Amazon S3
+C) Amazon RDS ==
+D) Amazon SQS
+
+QQQ> Which AWS service is used to send and receive messages between components of a cloud application?
+A) Amazon EC2
+B) Amazon S3
+C) Amazon RDS
+D) Amazon SQS ==
+
+QQQ> Which AWS service is used to monitor and manage the performance of AWS resources?
+A) Amazon CloudWatch ==
+B) Amazon EC2
+C) Amazon S3
+D) Amazon RDS
+
+QQQ> Which AWS service is used to create and manage virtual private networks (VPNs)?
+A) Amazon VPC ==
+B) Amazon CloudWatch
+C) Amazon EC2
+D) Amazon S3
+
+QQQ> Which AWS service is used to secure access to AWS resources?
+A) Amazon IAM ==
+B) Amazon VPC
+C) Amazon CloudWatch
+D) Amazon EC2
+
+QQQ> Which AWS service is used to deliver content over the internet with low latency and high availability?
+A) Amazon CloudFront ==
+B) Amazon IAM
+C) Amazon VPC
+D) Amazon CloudWatch
+
+QQQ> Which AWS service is used to load balance traffic across multiple Amazon EC2 instances?
+A) Amazon CloudFront
+B) Amazon IAM
+C) Amazon VPC
+D) Amazon ELB ==
+
+QQQ> Which AWS service is used to automatically scale Amazon EC2 instances based on demand?
+A) Amazon CloudFront
+B) Amazon IAM
+C) Amazon VPC
+D) Amazon ASG ==
+
+QQQ> Which AWS service is used to store and retrieve structured data?
+A) Amazon DynamoDB ==
+B) Amazon CloudFront
+C) Amazon IAM
+D) Amazon VPC
+
+QQQ> Which AWS service is used to process and analyze data in real time?
+A) Amazon DynamoDB
+B) Amazon CloudFront
+C) Amazon IAM
+D) Amazon Kinesis ==
+
+QQQ> Which AWS service is used to manage and deliver applications over the internet?
+A) Amazon DynamoDB
+B) Amazon CloudFront
+C) Amazon IAM
+D) Amazon Elastic Beanstalk ==
+
+QQQ> Which AWS service is used to store and manage containers?
+A) Amazon DynamoDB
+B) Amazon CloudFront
+C) Amazon IAM
+D) Amazon ECS ==
+
+QQQ> Which AWS service is used to manage and scale serverless applications?
+A) Amazon DynamoDB
+B) Amazon CloudFront
+C) Amazon IAM
+D) AWS Lambda ==
+
+QQQ> Which AWS service is used to build, deploy, and manage serverless applications?
+A) Amazon DynamoDB
+B) Amazon CloudFront
+C) Amazon IAM
+D) AWS Serverless Application Repository ==
+
+
+QQQ> Which AWS service is used to provision and manage resources in the cloud?
+A) AWS CloudFormation ==
+B) Amazon CloudWatch
+C) Amazon EC2
+D) Amazon S3
+
+QQQ> Which AWS service is used to secure and manage access to cloud resources?
+A) AWS Identity and Access Management (IAM) ==
+B) Amazon CloudWatch
+C) Amazon EC2
+D) Amazon S3
+
+QQQ> Which AWS service is used to deliver content over the internet with low latency and high availability?
+A) Amazon CloudFront ==
+B) Amazon Identity and Access Management (IAM)
+C) Amazon EC2
+D) Amazon S3
+
+QQQ> Which AWS service is used to load balance traffic across multiple Amazon EC2 instances?
+A) Amazon CloudFront
+B) Amazon Identity and Access Management (IAM)
+C) Amazon Elastic Load Balancing (ELB) ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to automatically scale Amazon EC2 instances based on demand?
+A) Amazon CloudFront
+B) Amazon Identity and Access Management (IAM)
+C) Amazon Auto Scaling (ASG) ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to store and retrieve structured data?
+A) Amazon DynamoDB ==
+B) Amazon CloudWatch
+C) Amazon EC2
+D) Amazon S3
+
+QQQ> Which AWS service is used to process and analyze data in real time?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) Amazon Kinesis ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and deliver applications over the internet?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) Amazon Elastic Beanstalk ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to store and manage containers?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) Amazon Elastic Container Service (ECS) ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and scale serverless applications?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) AWS Lambda ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to build, deploy, and manage serverless applications?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) AWS Serverless Application Model (SAM) ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and monitor cloud costs?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) AWS Cost and Usage Report (CUR) ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and optimize cloud performance?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) AWS Well-Architected Tool ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to identify and resolve security issues in cloud applications?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) AWS Inspector ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to provide a consistent and reliable experience for cloud applications?
+A) Amazon DynamoDB
+B) Amazon CloudWatch
+C) AWS CloudFormation ==
+D) Amazon S3
+
+QQQ> Which AWS service is used to deliver static and dynamic content with low latency and high availability?
+A) Amazon Simple Storage Service (S3) ==
+B) Amazon CloudFront
+C) Amazon Elastic Beanstalk
+D) AWS Lambda
+
+QQQ> Which AWS service is used to manage and monitor the performance of AWS resources?
+A) Amazon CloudWatch ==
+B) Amazon CloudTrail
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to create and manage virtual private networks (VPNs)?
+A) Amazon Virtual Private Cloud (VPC) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to send and receive messages between components of a cloud-based application?
+A) Amazon Simple Queue Service (SQS) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and monitor the health and performance of AWS resources?
+A) Amazon CloudWatch ==
+B) Amazon CloudTrail
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to create, manage, and orchestrate containerized applications?
+A) Amazon Elastic Container Service (ECS) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to deliver applications with high availability and low latency?
+A) Amazon Elastic Load Balancing (ELB) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to securely access AWS resources from outside the AWS Cloud?
+A) Amazon Virtual Private Cloud (VPC) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to store and retrieve unstructured data of any size?
+A) Amazon Simple Storage Service (S3) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to process data streams in real time?
+A) Amazon Kinesis ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and deliver applications over the internet?
+A) Amazon Elastic Beanstalk ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to store and manage containers?
+A) Amazon Elastic Container Registry (ECR) ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and scale serverless applications?
+A) AWS Lambda ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to monitor and troubleshoot AWS resources?
+A) Amazon CloudWatch Logs ==
+B) Amazon CloudWatch
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to analyze and visualize logs from AWS Cloud resources?
+A) Amazon CloudWatch ==
+B) Amazon CloudWatch Logs
+C) Amazon CloudFormation
+D) Amazon S3
+
+QQQ> Which AWS service is used to detect and respond to security threats in AWS Cloud accounts?
+A) AWS Security Hub ==
+B) Amazon CloudWatch
+C) Amazon CloudWatch Logs
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and automate the deployment of applications and infrastructure?
+A) AWS CodePipeline ==
+B) Amazon CloudWatch
+C) Amazon CloudWatch Logs
+D) Amazon S3
+
+QQQ> Which AWS service is used to manage and deliver content over the internet with low latency and high availability?
+A) Amazon CloudFront ==
+B) AWS CodePipeline
+C) Amazon CloudWatch
+D) Amazon CloudWatch Logs
+
+
+QQQ> What is the primary purpose of Amazon S3 in AWS?
+
+A) Storage of virtual machines
+B) Object storage==
+C) Database management
+D) Network routing
+
+
+QQQ> Which AWS service is designed to automatically scale based on demand for applications?
+
+A) Amazon RDS
+B) AWS Lambda
+C) Amazon EC2
+D) Amazon Auto Scaling==
+
+
+QQQ> What is the purpose of an AWS Elastic Load Balancer (ELB)?
+
+A) Distributing incoming network traffic across multiple servers==
+B) Managing database connections
+C) Scaling storage capacity
+D) Monitoring CPU utilization
+
+
+QQQ> Which AWS service is suitable for real-time data streaming and analytics?
+
+A) Amazon DynamoDB
+B) Amazon Kinesis==
+C) AWS Glue
+D) Amazon Redshift
+
+
+QQQ> In AWS, what does VPC stand for?
+
+A) Virtual Private Cloud==
+B) Virtual Processing Container
+C) Virtual Protocol Connection
+D) Virtualized Public Cluster
+
+
+QQQ> What is the purpose of AWS CloudFormation?
+
+A) Monitoring application performance
+B) Infrastructure as Code (IaC)==
+C) Machine learning model deployment
+D) Database backup and restore
+
+
+QQQ> Which AWS service is used for hosting static websites?
+
+A) Amazon S3==
+B) AWS Elastic Beanstalk
+C) Amazon EC2
+D) AWS Lambda
+
+
+QQQ> What is AWS Lambda primarily used for?
+
+A) Serverless computing==
+B) Relational database management
+C) Load balancing
+D) Content delivery network
+
+
+QQQ> Which AWS service is suitable for orchestrating and automating tasks in the cloud?
+
+A) AWS Step Functions==
+B) Amazon SNS
+C) AWS CloudTrail
+D) Amazon CloudWatch
+
+
+QQQ> What is the maximum size of an Amazon RDS database snapshot?
+
+A) 5 GB
+B) 10 GB
+C) 15 GB
+D) 20 GB==
+
+
+QQQ> Which AWS service is designed for high-performance, scalable NoSQL databases?
+
+A) Amazon DynamoDB==
+B) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+
+
+QQQ> What is the purpose of AWS Identity and Access Management (IAM)?
+
+A) Database encryption
+B) User authentication and authorization==
+C) Content delivery
+D) Network security
+
+
+QQQ> In AWS, what does the term "Elastic Beanstalk" refer to?
+
+A) Elastic load balancing
+B) PaaS (Platform as a Service) for application deployment==
+C) Serverless computing
+D) DNS management
+
+
+QQQ> Which AWS service provides a fully managed, petabyte-scale data warehouse?
+
+A) Amazon DynamoDB
+B) Amazon RDS
+C) Amazon Redshift==
+D) Amazon Aurora
+
+
+QQQ> What is the purpose of Amazon CloudFront?
+
+A) Database backup
+B) Content delivery network (CDN)==
+C) Load balancing
+D) Serverless computing
+
+
+QQQ> Which AWS service is suitable for real-time log analysis?
+
+A) Amazon CloudWatch
+B) AWS Glue
+C) AWS Lambda
+D) Amazon Kinesis==
+
+
+QQQ> What is the primary benefit of using AWS Elastic Beanstalk?
+
+A) Fine-grained control over infrastructure
+B) Fully managed deployment platform==
+C) High-performance computing
+D) Real-time data analytics
+
+
+QQQ> Which AWS service is used for scalable and fully managed file storage?
+
+A) Amazon S3
+B) Amazon EFS==
+C) Amazon Glacier
+D) AWS Storage Gateway
+
+
+QQQ> What is the purpose of AWS CloudWatch Alarms?
+
+A) Automating infrastructure deployments
+B) Monitoring and responding to cloud resources==
+C) Load balancing
+D) Database backup
+
+
+QQQ> Which AWS service allows you to run containers without managing the underlying infrastructure?
+
+A) Amazon EC2
+B) Amazon ECS
+C) Amazon EKS==
+D) AWS Lambda
+
+
+
+QQQ> What is the purpose of AWS CloudFront?
+
+A) Real-time log analysis  
+B) Content delivery network (CDN)  ==
+C) Database management  
+D) Serverless computing
+
+
+QQQ> In AWS, what does the term "Elasticache" refer to?
+
+A) In-memory caching service  ==
+B) Database backup and restore  
+C) Real-time data streaming and analytics  
+D) Serverless event-driven computing
+
+
+QQQ> Which AWS service is designed for fully managed, scalable relational database services?
+
+A) Amazon DynamoDB  
+B) Amazon RDS  ==
+C) Amazon Aurora  
+D) Amazon Redshift
+
+
+QQQ> What is the purpose of AWS Step Functions?
+
+A) Serverless computing  
+B) Orchestrating and automating tasks in the cloud  ==
+C) Monitoring and responding to cloud resources  
+D) Database encryption
+
+
+QQQ> Which AWS service is suitable for archival storage of infrequently accessed data?
+
+A) Amazon S3  
+B) Amazon EFS  
+C) Amazon Glacier  ==
+D) AWS Storage Gateway
+
+
+QQQ> What is the primary benefit of using AWS Lambda?
+
+A) Fine-grained control over infrastructure  
+B) Serverless computing  ==
+C) High-performance computing  
+D) Fully managed deployment platform
+
+
+QQQ> In AWS, what does the term "VPC" stand for?
+
+A) Virtual Processing Container  
+B) Virtual Protocol Connection  
+C) Virtual Private Cloud  ==
+D) Virtualized Public Cluster
+
+
+QQQ> Which AWS service is designed for scalable, cost-effective cloud storage?
+
+A) Amazon RDS  
+B) Amazon S3  ==
+C) Amazon Glacier  
+D) Amazon EFS
+
+
+QQQ> What is the purpose of AWS Lambda Layers?
+
+A) Database encryption  
+B) Code reuse and sharing common functionality across functions  ==
+C) Real-time log analysis  
+D) Serverless event-driven computing
+
+
+QQQ> Which AWS service is suitable for deploying and managing Docker containers?
+
+A) Amazon EKS  
+B) Amazon ECS  ==
+C) AWS Lambda  
+D) AWS Elastic Beanstalk
+
+
+QQQ> What is the purpose of Amazon CloudWatch Logs?
+
+A) Real-time data streaming and analytics  
+B) Monitoring and managing log data  ==
+C) Content delivery network (CDN)  
+D) Serverless computing
+
+
+QQQ> In AWS, what is the purpose of Amazon VPC?
+
+A) Scalable file storage  
+B) Database management  
+C) Networking in the cloud  ==
+D) Serverless event-driven computing
+
+
+QQQ> Which AWS service provides a fully managed, highly available, and durable relational database?
+
+A) Amazon DynamoDB  
+B) Amazon RDS  
+C) Amazon Aurora == 
+D) Amazon Redshift
+
+
+QQQ> What is the primary purpose of AWS Identity and Access Management (IAM)?
+
+A) Content delivery network (CDN)  
+B) Database encryption  
+C) User authentication and authorization  ==
+D) Real-time log analysis
+
+
+QQQ> Which AWS service allows you to run code without provisioning or managing servers?
+
+A) Amazon EC2  
+B) AWS Lambda  ==
+C) Amazon RDS  
+D) Amazon S3
+
+
+QQQ> What is the purpose of AWS CloudFormation?
+
+A) Monitoring application performance  
+B) Infrastructure as Code (IaC)  ==
+C) Machine learning model deployment  
+D) Database backup and restore
+
+
+QQQ> Which AWS service is designed for secure and scalable communication between devices in the Internet of Things (IoT)?
+
+A) Amazon SNS  
+B) AWS IoT  ==
+C) Amazon Kinesis  
+D) AWS Glue
+
+
+QQQ> What is the primary benefit of using AWS CodeDeploy?
+
+A) Serverless computing  
+B) Automated application deployment to EC2 instances  ==
+C) Content delivery network (CDN)  
+D) Real-time log analysis
+
+
+QQQ> In AWS, what does the term "Elastic Beanstalk" refer to?
+
+A) Elastic load balancing  
+B) PaaS (Platform as a Service) for application deployment  ==
+C) Serverless computing  
+D) DNS management
+
+
+QQQ> Which AWS service is suitable for real-time data streaming and analytics?
+
+A) Amazon DynamoDB  
+B) Amazon Kinesis == 
+C) AWS Glue  
+D) Amazon Redshift
+
+
+
+QQQ> What is the purpose of AWS CloudTrail?
+
+A) Monitoring application performance
+B) Auditing and tracking user activity in AWS==
+C) Content delivery network (CDN)
+D) Database backup
+
+
+
+QQQ> Which AWS service is designed for scalable and fully managed data warehousing?
+
+A) Amazon DynamoDB
+B) Amazon RDS
+C) Amazon Redshift==
+D) AWS Glue
+
+
+
+QQQ> What does Amazon ECS (Elastic Container Service) facilitate?
+
+A) Serverless computing
+B) Container orchestration==
+C) Database management
+D) Network routing
+
+
+
+QQQ> In AWS, what is the purpose of AWS Key Management Service (KMS)?
+
+A) Content delivery network (CDN)
+B) Encryption of data at rest and in transit==
+C) Real-time log analysis
+D) Serverless event-driven computing
+
+
+
+QQQ> What is the primary use case for Amazon Simple Notification Service (SNS)?
+
+A) Real-time data streaming and analytics
+B) Scalable and fully managed file storage
+C) Messaging and event-driven architecture==
+D) High-performance, scalable NoSQL databases
+
+
+
+QQQ> Which AWS service provides a fully managed, serverless data integration for ETL (extract, transform, load) workflows?
+
+A) Amazon Kinesis
+B) AWS Glue==
+C) Amazon Redshift
+D) Amazon Aurora
+
+
+
+QQQ> What is the purpose of AWS Direct Connect?
+
+A) Securely connect on-premises data centers with AWS==
+B) Load balancing
+C) Database backup and restore
+D) Real-time log analysis
+
+
+
+QQQ> Which AWS service is designed for building, training, and deploying machine learning models?
+
+A) Amazon SageMaker==
+B) Amazon Polly
+C) Amazon Lex
+D) AWS DeepLens
+
+
+
+QQQ> What is the purpose of AWS WAF (Web Application Firewall)?
+
+A) Monitoring and responding to cloud resources
+B) Protecting web applications from common web exploits==
+C) Database encryption
+D) Automated infrastructure deployments
+
+
+
+QQQ> Which AWS service is used for DNS management?
+
+A) Amazon Route 53==
+B) Amazon CloudFront
+C) AWS Direct Connect
+D) Amazon VPC
+
+
+
+QQQ> What is the primary benefit of using Amazon CloudFront?
+
+A) Real-time log analysis
+B) Content delivery network (CDN)==
+C) Database management
+D) Serverless computing
+
+
+
+QQQ> In AWS, what does the term "Elasticache" refer to?
+
+A) In-memory caching service==
+B) Database backup and restore
+C) Real-time data streaming and analytics
+D) Serverless event-driven computing
+
+
+
+QQQ> Which AWS service is designed for fully managed, scalable relational database services?
+
+A) Amazon DynamoDB
+B) Amazon RDS==
+C) Amazon Aurora
+D) Amazon Redshift
+
+
+
+QQQ> What is the purpose of AWS Step Functions?
+
+A) Serverless computing
+B) Orchestrating and automating tasks in the cloud==
+C) Monitoring and responding to cloud resources
+D) Database encryption
+
+
+
+QQQ> Which AWS service is suitable for archival storage of infrequently accessed data?
+
+A) Amazon S3
+B) Amazon EFS
+C) Amazon Glacier==
+D) AWS Storage Gateway
+
+
+
+QQQ> What is the primary benefit of using AWS Lambda?
+
+A) Fine-grained control over infrastructure
+B) Serverless computing==
+C) High-performance computing
+D) Fully managed deployment platform
